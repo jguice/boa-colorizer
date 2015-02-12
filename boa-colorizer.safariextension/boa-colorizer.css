@@ -13,3 +13,8 @@ tr.transType-credit td {
 tr.transType-bankcharge td {
 	background-color: lightPink !important;
 }
+
+/* hide cardlytics transaction offers */
+.cardlytics-transaction-offer {
+  display: none;
+}
