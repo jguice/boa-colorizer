@@ -1,0 +1,15 @@
+tr.transType-deposit td {
+	background-color: paleGreen !important;
+}
+
+tr.transType-transfer td {
+	background-color: khaki !important;
+}
+
+tr.transType-credit td {
+	background-color: paleGreen !important;
+}
+
+tr.transType-bankcharge td {
+	background-color: lightPink !important;
+}
